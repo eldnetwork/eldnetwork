@@ -14,5 +14,6 @@ An L1 for ephemeral, content-addressed storage. Data is addressed by content key
 | [eld-blockchain-explorer](https://github.com/eldnetwork/eld-blockchain-explorer) | Public explorer UI |
 | [eld-docs](https://github.com/eldnetwork/eld-docs) | Documentation site |
 | [eld-website](https://github.com/eldnetwork/eld-website) | Intro site |
+| [eld-analytics](https://github.com/eldnetwork/eld-analytics) | Analytics dashboard for eld cluster |
 
 Chain code is MIT. The Tendermint packaging follows upstream Apache-2.0.
